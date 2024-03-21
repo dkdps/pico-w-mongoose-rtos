@@ -1,9 +1,12 @@
 ## Original Project
-The guides from the mongoose documentation are useful guides for navigating this project.
+This example is heavily based on the tutorial in the Mongoose documentation:
 > https://mongoose.ws/documentation/tutorials/rp2040/pico-w/
 
 > https://github.com/mongoose-examples/raspberry-pi-pico-w/blob/5bfae33/lwipopts.h#L86-L92
 
+<img src="https://i.imgur.com/tnN3QpD.gif"/>
+
+> See it in action! https://i.imgur.com/tnN3QpD.gif
 
 ## Dependencies
 Make sure you have `docker`, `gcc` and `make` installed on your system. 
