@@ -6,8 +6,6 @@
 
 #include "lwip/ip4_addr.h"
 #include "dhcpserver.h"
-#include "dnsserver.h"
-
 
 #include "FreeRTOS.h"
 #include "task.h"
