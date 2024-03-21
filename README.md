@@ -4,7 +4,9 @@ This example is heavily based on the tutorial in the Mongoose documentation:
 
 > https://github.com/mongoose-examples/raspberry-pi-pico-w/blob/5bfae33/lwipopts.h#L86-L92
 
-![A GIF showing the web server in action.](https://i.imgur.com/tnN3QpD.gif)
+<img src="https://i.imgur.com/tnN3QpD.gif"/>
+
+> See it in action! https://i.imgur.com/tnN3QpD.gif
 
 ## Dependencies
 Make sure you have `docker`, `gcc` and `make` installed on your system. 
